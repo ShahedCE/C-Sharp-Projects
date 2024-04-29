@@ -1,0 +1,10 @@
+E:\C#\Database\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.exe.config
+E:\C#\Database\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.exe
+E:\C#\Database\CRUD_Operation\CRUD_Operation\bin\Debug\CRUD_Operation.pdb
+E:\C#\Database\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.AssemblyReference.cache
+E:\C#\Database\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.Form1.resources
+E:\C#\Database\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.Properties.Resources.resources
+E:\C#\Database\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.GenerateResource.cache
+E:\C#\Database\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.CoreCompileInputs.cache
+E:\C#\Database\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.exe
+E:\C#\Database\CRUD_Operation\CRUD_Operation\obj\Debug\CRUD_Operation.pdb
